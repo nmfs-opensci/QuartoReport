@@ -39,8 +39,8 @@ book:
     - text/conclusion.qmd
     - references.qmd
 
-  site-url: https://rverse-tutorials.github.io/QuartoReport_SE/
-  repo-url: https://github.com/RVerse-Tutorials/QuartoReport_SE
+  site-url: https://nmfs-opensci.github.io/QuartoReport/
+  repo-url: https://github.com/nmfs-opensci/QuartoReport
   repo-actions: [edit, source, issue]
   search: true
 
