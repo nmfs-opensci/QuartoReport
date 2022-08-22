@@ -3,6 +3,8 @@ require(dplyr)
 require(flextable)
 require(ggplot2)
 require(kableExtra)
+require(ggmap)
+require(stringr)
 
 ishtml <- knitr::is_html_output()
 ispdf <- knitr::is_latex_output()
@@ -12,7 +14,6 @@ if(isword) table.engine <- "flextable"
 if(ispdf) table.engine <- "kbl"
 
 mapfigure <- function(title, id=NULL){
-  require(ggmap)
   # bbox_dat <- c(left = -125, bottom = 42, right = -110, top = 50)
   # p <- ggmap(get_stamenmap(bbox_dat, zoom = 5, maptype="terrain-background")) 
   load(here::here("data", "pnwmap.rda"))
