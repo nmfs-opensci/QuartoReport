@@ -9,20 +9,19 @@ book:
 #  cover-image: images/logo.png
 #  image: images/logo.png
   downloads: [pdf, docx]
-#  sharing: [twitter, facebook]
   author:
     - name: Jane Doe
       affiliations:
-        - name: University of XXX
-          department: Department of YYY
+        - name: NOAA Fisheres
+          department: Northwest Fisheries Science Center
     - name: Eva Nováková
       affiliations:
-        - name: University of XXX
-          department: Department of YYY
+        - name: NOAA Fisheries
+          department: West Coast Regional Office
     - name: Matti Meikäläinen
       affiliations:
-        - name: University of XXX
-          department: Department of YYY
+        - name: NOAA Fisheries
+          department: Southwest Fisheries Science Center
   chapters:
     - index.qmd
 #    - text/CRchum.qmd
