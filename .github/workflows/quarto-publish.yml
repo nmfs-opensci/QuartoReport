@@ -18,8 +18,19 @@ jobs:
           tinytex: true 
           # uncomment below and fill to pin a version
           # version: 0.9.600
-      
-      # add software dependencies here
+          
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v1
+
+      - name: Set up Pandoc
+        uses: r-lib/actions/setup-pandoc@v1
+
+      - name: Install packages
+        run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "kableExtra", "jsonlite", "ggplot2", "ggmap", 
+                     "flextable", "dplyr", "stringr")'
+
+      - name: Build site
+        run: Rscript -e 'rmarkdown::render_site(encoding = 'UTF-8')'
 
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
