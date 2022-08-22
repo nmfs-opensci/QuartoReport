@@ -26,11 +26,7 @@ jobs:
         uses: r-lib/actions/setup-pandoc@v1
 
       - name: Install packages
-        run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "kableExtra", "jsonlite", "ggplot2", "ggmap", 
-                     "flextable", "dplyr", "stringr")'
-
-      - name: Build site
-        run: Rscript -e 'rmarkdown::render_site(encoding = 'UTF-8')'
+        run: Rscript -e 'install.packages(c("rmarkdown", "knitr", "kableExtra", "jsonlite", "ggplot2", "ggmap",  "flextable", "dplyr", "stringr")'
 
       - name: Publish to GitHub Pages (and render)
         uses: quarto-dev/quarto-actions/publish@v2
