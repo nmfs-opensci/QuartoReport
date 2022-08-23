@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "An example report",
+    "section": "",
+    "text": "EE Holmes, 2022. Quarto Report Template. Northwest Fisheries Science Center."
+  },
+  {
+    "objectID": "text/ICSRFchinook.html",
+    "href": "text/ICSRFchinook.html",
+    "title": "1  Interior Columbia Snake River Chinook",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Clark (1993) vitae ante quis dui egestas fringilla ac vitae justo (Ansley and Davis 1981; Collins et al. 1996; Deuel and Clark 1968) . Pellentesque quis magna vel odio malesuada rutrum a volutpat nisl. Aliquam fermentum, urna eget tristique mattis, augue augue tristique ipsum, eget finibus nunc eros non nisi. Phasellus mattis hendrerit sapien, quis accumsan dui pretium eget. Nunc eleifend laoreet urna a luctus. Nulla vel sapien in nulla gravida tempus sit amet a metus. Vivamus porta condimentum tempus. Maecenas rhoncus elit id ultricies scelerisque. In gravida urna in ligula fringilla euismod. Curabitur efficitur porta libero ac fermentum. Cras fringilla et libero at posuere. Curabitur sodales dapibus elit a convallis.\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor. Etiam ut felis nisl. Nunc quis euismod felis. Vestibulum gravida nisi mi, quis mollis velit ullamcorper non. Aliquam tempus fringilla bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra nulla elementum libero mollis, quis cursus velit sagittis."
+  },
+  {
+    "objectID": "text/ICSRFchinook.html#general-location",
+    "href": "text/ICSRFchinook.html#general-location",
+    "title": "1  Interior Columbia Snake River Chinook",
+    "section": "1.1 General location",
+    "text": "1.1 General location\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor.\n\n\n\n\n\n\n\n\n\nFigure 1.1: Interior Columbia Snake River Chinook. Map of the general location of the ESU."
+  },
+  {
+    "objectID": "text/ICSRFchinook.html#recent-trends",
+    "href": "text/ICSRFchinook.html#recent-trends",
+    "title": "1  Interior Columbia Snake River Chinook",
+    "section": "1.2 Recent trends",
+    "text": "1.2 Recent trends\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae ante quis dui egestas fringilla ac vitae justo. Pellentesque quis magna vel odio malesuada rutrum a volutpat nisl. Aliquam fermentum, urna eget tristique mattis, augue augue tristique ipsum, eget finibus nunc eros non nisi. Phasellus mattis hendrerit sapien, quis accumsan dui pretium eget. Nunc eleifend laoreet urna a luctus. Nulla vel sapien in nulla gravida tempus sit amet a metus. Vivamus porta condimentum tempus. Maecenas rhoncus elit id ultricies scelerisque. In gravida urna in ligula fringilla euismod. Curabitur efficitur porta libero ac fermentum. Cras fringilla et libero at posuere. Curabitur sodales dapibus elit a convallis.\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor. Etiam ut felis nisl. Nunc quis euismod felis. Vestibulum gravida nisi mi, quis mollis velit ullamcorper non. Aliquam tempus fringilla bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra nulla elementum libero mollis, quis cursus velit sagittis.\n\n\n\n\n\n\n\n\n\nFigure 1.2: Interior Columbia Snake River Chinook. Log spawner count trends."
+  },
+  {
+    "objectID": "text/ICSRFchinook.html#population-raw-data",
+    "href": "text/ICSRFchinook.html#population-raw-data",
+    "title": "1  Interior Columbia Snake River Chinook",
+    "section": "1.3 Population raw data",
+    "text": "1.3 Population raw data\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor. Etiam ut felis nisl. Nunc quis euismod felis. Vestibulum gravida nisi mi, quis mollis velit ullamcorper non. Aliquam tempus fringilla bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra nulla elementum libero mollis, quis cursus velit sagittis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1.3.1 Chinook\n\n\n\n\n\n\n\n\n\nTable 1.1:  Spawners and fracwild from Chinook (NMFS_POPID 56) for 2000 to 2019. \nYearSpawnersFracwild20002,5580.44920019,5450.54120029,3470.226200311,7240.278200415,6090.39020059,9240.46220066,4850.60020078,3540.337200811,9250.251200920,6850.207201039,7640.185201123,5800.342201230,3630.373201351,2390.399201452,9890.248201552,2850.295201631,9930.270201721,2480.289201811,7050.420201912,7900.390** data file: ICSRFchinook.csv mod date: Wed Aug 10 17:57:25 2022 -0600* These spawner counts are from river redd surveys.flextable\n\n\n\n\n\n\n\nAnsley, H. L. H., and C. D. Davis. 1981. “Migration and Standing Stock of Fishes Associated with Artificial and Natural Reefs on Georgia’s Outer Continental Shelf.” Brunswick, Georgia, USA.\n\n\nClark, W. G. 1993. “The Effect of Recruitment Variability on the Choice of a Target Level of Spawning Biomass Per Recruit.” In, 233246. Alaska Sea Grant College Program AKSG9302.\n\n\nCollins, M. R., S. B. Van Sant, D. J. Schmidt, and G. R. Sedberry. 1996. “Age Validation, Movements, and Growth Rates of Tagged Gag (Mycteroperca Microlepis), Black Sea Bass (Centropristis Striata) and Red Porgy (Pagrus Pagrus).” In, edited by F. Arrequin-Sanchez, J. L. Munro, M. C. Balgos, and D. Pauly, 161–65. Makati City, Philippines: ICLARM (International Center for Living Aquatic Resources Management).\n\n\nDeuel, D. G., and J. R. Clark. 1968. “The 1965 Salt-Water Angling Survey.”"
+  },
+  {
+    "objectID": "text/UWsthd.html",
+    "href": "text/UWsthd.html",
+    "title": "2  Upper Willamette steelhead",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Clark (1993) vitae ante quis dui egestas fringilla ac vitae justo (Ansley and Davis 1981; Collins et al. 1996; Deuel and Clark 1968) . Pellentesque quis magna vel odio malesuada rutrum a volutpat nisl. Aliquam fermentum, urna eget tristique mattis, augue augue tristique ipsum, eget finibus nunc eros non nisi. Phasellus mattis hendrerit sapien, quis accumsan dui pretium eget. Nunc eleifend laoreet urna a luctus. Nulla vel sapien in nulla gravida tempus sit amet a metus. Vivamus porta condimentum tempus. Maecenas rhoncus elit id ultricies scelerisque. In gravida urna in ligula fringilla euismod. Curabitur efficitur porta libero ac fermentum. Cras fringilla et libero at posuere. Curabitur sodales dapibus elit a convallis.\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor. Etiam ut felis nisl. Nunc quis euismod felis. Vestibulum gravida nisi mi, quis mollis velit ullamcorper non. Aliquam tempus fringilla bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra nulla elementum libero mollis, quis cursus velit sagittis."
+  },
+  {
+    "objectID": "text/UWsthd.html#general-location",
+    "href": "text/UWsthd.html#general-location",
+    "title": "2  Upper Willamette steelhead",
+    "section": "2.1 General location",
+    "text": "2.1 General location\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor.\n\n\n\n\n\n\n\n\n\nFigure 2.1: Upper Willamette steelhead. Map of the general location of the ESU."
+  },
+  {
+    "objectID": "text/UWsthd.html#recent-trends",
+    "href": "text/UWsthd.html#recent-trends",
+    "title": "2  Upper Willamette steelhead",
+    "section": "2.2 Recent trends",
+    "text": "2.2 Recent trends\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae ante quis dui egestas fringilla ac vitae justo. Pellentesque quis magna vel odio malesuada rutrum a volutpat nisl. Aliquam fermentum, urna eget tristique mattis, augue augue tristique ipsum, eget finibus nunc eros non nisi. Phasellus mattis hendrerit sapien, quis accumsan dui pretium eget. Nunc eleifend laoreet urna a luctus. Nulla vel sapien in nulla gravida tempus sit amet a metus. Vivamus porta condimentum tempus. Maecenas rhoncus elit id ultricies scelerisque. In gravida urna in ligula fringilla euismod. Curabitur efficitur porta libero ac fermentum. Cras fringilla et libero at posuere. Curabitur sodales dapibus elit a convallis.\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor. Etiam ut felis nisl. Nunc quis euismod felis. Vestibulum gravida nisi mi, quis mollis velit ullamcorper non. Aliquam tempus fringilla bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra nulla elementum libero mollis, quis cursus velit sagittis.\n\n\n\n\n\n\n\n\n\nFigure 2.2: Upper Willamette steelhead. Log spawner count trends."
+  },
+  {
+    "objectID": "text/UWsthd.html#population-raw-data",
+    "href": "text/UWsthd.html#population-raw-data",
+    "title": "2  Upper Willamette steelhead",
+    "section": "2.3 Population raw data",
+    "text": "2.3 Population raw data\nMorbi iaculis eget augue eget facilisis. Etiam non orci dignissim, efficitur purus viverra, pellentesque neque. Aliquam ornare, magna ut dictum mollis, nunc lorem iaculis nibh, eu consequat lectus urna euismod tortor. Etiam ut felis nisl. Nunc quis euismod felis. Vestibulum gravida nisi mi, quis mollis velit ullamcorper non. Aliquam tempus fringilla bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra nulla elementum libero mollis, quis cursus velit sagittis.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2.3.1 Willamette Falls ESC\n\n\n\n\n\n\n\n\n\nTable 2.1:  Spawners and fracwild from Willamette Falls ESC (NMFS_POPID 1053) for 2000 to 2019. \nYearSpawnersFracwild20004,7611200112,5251200217,998120039,0921200411,842120055,963120066,404120075,497120085,442120092,813120107,337120117,441120127,616120134,944120145,349120154,508120165,77812017822120181,829120193,2021** data file: UWsthd.csv mod date: Wed Aug 10 17:57:25 2022 -0600* These spawner counts are from river redd surveys.flextable\n\n\n\n\n\n\n\nAnsley, H. L. H., and C. D. Davis. 1981. “Migration and Standing Stock of Fishes Associated with Artificial and Natural Reefs on Georgia’s Outer Continental Shelf.” Brunswick, Georgia, USA.\n\n\nClark, W. G. 1993. “The Effect of Recruitment Variability on the Choice of a Target Level of Spawning Biomass Per Recruit.” In, 233246. Alaska Sea Grant College Program AKSG9302.\n\n\nCollins, M. R., S. B. Van Sant, D. J. Schmidt, and G. R. Sedberry. 1996. “Age Validation, Movements, and Growth Rates of Tagged Gag (Mycteroperca Microlepis), Black Sea Bass (Centropristis Striata) and Red Porgy (Pagrus Pagrus).” In, edited by F. Arrequin-Sanchez, J. L. Munro, M. C. Balgos, and D. Pauly, 161–65. Makati City, Philippines: ICLARM (International Center for Living Aquatic Resources Management).\n\n\nDeuel, D. G., and J. R. Clark. 1968. “The 1965 Salt-Water Angling Survey.”"
+  },
+  {
+    "objectID": "text/conclusion.html",
+    "href": "text/conclusion.html",
+    "title": "3  Conclusion",
+    "section": "",
+    "text": "We want to reference the Interior Columbia Upper Columbia Entiat population ?tbl-rawICUCchinook-100. It is in Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo sit amet nibh non molestie. Maecenas hendrerit nisl velit, a condimentum enim lobortis sit amet. Ut vitae nunc sed mauris condimentum fermentum. Mauris pellentesque nec neque id elementum. Suspendisse a quam aliquam, facilisis urna venenatis, malesuada diam. Pellentesque in fringilla orci. Cras sed purus urna. Ut pharetra enim ut ligula egestas mattis. I need to reference the work of Hardy (1978).\nPhasellus non diam posuere, laoreet velit sed, egestas felis. Etiam eget neque in tellus lacinia tincidunt. Pellentesque scelerisque odio velit, nec fringilla nibh iaculis non. Aenean sit amet nulla ipsum. Cras felis lacus, pulvinar ac nisi et, convallis pulvinar turpis. Morbi non nibh lacus. Morbi vitae lorem massa. Sed ut turpis vel felis posuere commodo lacinia ac mi. Donec finibus lectus sit amet elit finibus, vitae rhoncus ligula tincidunt. Phasellus vitae blandit lacus. Integer sed nisl fermentum, pulvinar mauris in, posuere enim. Proin sit amet semper urna. Vivamus aliquet rutrum diam ac luctus.\nQuisque in nibh sit amet nunc mollis porttitor quis et mauris. Sed non condimentum leo, ac condimentum est. Duis ac venenatis nulla, et aliquet elit. Suspendisse potenti. Duis mollis dui at semper luctus. Maecenas euismod finibus condimentum. Fusce vitae gravida massa. Mauris metus est, pretium non semper vel, dictum vel augue.\nCurabitur tempus, leo quis volutpat rhoncus, turpis elit vehicula dolor, id tincidunt augue nunc at enim. In vel enim mattis, varius orci at, tempus ante. Morbi massa elit, pharetra ac libero at, porta tempus quam. Ut fringilla, tortor ac tristique euismod, magna felis vestibulum turpis, quis congue mauris leo nec felis. Aliquam viverra et nibh ut blandit. Praesent sed luctus odio. Pellentesque finibus velit dolor. Morbi ac pulvinar ex, id dapibus eros. Cras interdum arcu viverra auctor tristique. Suspendisse venenatis volutpat ultricies.\nDonec bibendum pharetra arcu vitae porttitor. Morbi ac quam nunc. Ut cursus dolor a mauris aliquet vulputate. Morbi elementum ullamcorper augue, et tincidunt libero facilisis posuere. Nam congue velit non elit sollicitudin aliquet. Donec lobortis nunc ligula, id sollicitudin erat rhoncus cursus. Ut egestas orci libero, eu malesuada ex sollicitudin sed. Sed ornare nunc eget massa scelerisque, nec egestas nulla commodo. Pellentesque efficitur accumsan ullamcorper. Nulla facilisi. Maecenas tristique luctus malesuada. Phasellus id enim maximus, tempus tellus eu, dignissim sapien. Integer et mauris in lectus condimentum pellentesque non a felis.\n\n\n\n\nHardy, J. D., Jr. 1978. “Development of Fishes of the Mid-Atlantic Bight. Vol. III. Aphredoderidae Through Rachycentridae.”"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Ansley, H. L. H., and C. D. Davis. 1981. “Migration and Standing\nStock of Fishes Associated with Artificial and Natural Reefs on\nGeorgia’s Outer Continental Shelf.” Brunswick,\nGeorgia, USA.\n\n\nClark, W. G. 1993. “The Effect of Recruitment Variability on the\nChoice of a Target Level of Spawning Biomass Per Recruit.” In,\n233246. Alaska Sea Grant College Program\nAKSG9302.\n\n\nCollins, M. R., S. B. Van Sant, D. J. Schmidt, and G. R. Sedberry. 1996.\n“Age Validation, Movements, and Growth Rates of Tagged Gag\n(Mycteroperca Microlepis), Black Sea Bass (Centropristis Striata) and\nRed Porgy (Pagrus Pagrus).” In, edited by F. Arrequin-Sanchez, J.\nL. Munro, M. C. Balgos, and D. Pauly, 161–65. Makati City, Philippines:\nICLARM (International Center for Living Aquatic Resources Management).\n\n\nDeuel, D. G., and J. R. Clark. 1968. “The 1965 Salt-Water Angling\nSurvey.”\n\n\nHardy, J. D., Jr. 1978. “Development of Fishes of the Mid-Atlantic\nBight. Vol. III. Aphredoderidae Through Rachycentridae.”"
+  }
+]
