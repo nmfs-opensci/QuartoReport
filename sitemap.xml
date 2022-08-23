@@ -2,30 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/index.html</loc>
-    <lastmod>2022-08-23T00:36:07.098Z</lastmod>
+    <lastmod>2022-08-23T00:40:11.470Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICSRFchinook.html</loc>
-    <lastmod>2022-08-23T00:36:07.099Z</lastmod>
+    <lastmod>2022-08-23T00:40:11.471Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICUCchinook.html</loc>
+    <lastmod>2022-08-23T00:40:11.473Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/text/LCchinook.html</loc>
+    <lastmod>2022-08-23T00:40:11.482Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/text/UWchinook.html</loc>
+    <lastmod>2022-08-23T00:40:11.484Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICSRsthd.html</loc>
+    <lastmod>2022-08-23T00:40:11.485Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICUCsthd.html</loc>
+    <lastmod>2022-08-23T00:40:11.487Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/text/UWsthd.html</loc>
-    <lastmod>2022-08-23T00:36:07.100Z</lastmod>
+    <lastmod>2022-08-23T00:40:11.487Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/text/conclusion.html</loc>
-    <lastmod>2022-08-23T00:36:07.100Z</lastmod>
+    <lastmod>2022-08-23T00:40:11.488Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/references.html</loc>
-    <lastmod>2022-08-23T00:36:07.101Z</lastmod>
+    <lastmod>2022-08-23T00:40:11.488Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/An-example-report.docx</loc>
-    <lastmod>2022-08-23T00:36:02.862Z</lastmod>
+    <lastmod>2022-08-23T00:40:05.786Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/An-example-report.pdf</loc>
-    <lastmod>2022-08-23T00:36:06.722Z</lastmod>
+    <lastmod>2022-08-23T00:40:10.792Z</lastmod>
   </url>
 </urlset>
