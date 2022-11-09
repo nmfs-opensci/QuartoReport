@@ -1,8 +1,10 @@
-# QmdReport.
+# QuartoReport
 
 Example of a Quarto Report with dynamically created tables
 
-Presentation given on this Aug 11 2022: https://youtu.be/Uay6X65Ukvk. The version given in that talk is Release v2.0.
+Presentation given on this Aug 11 2022: [https://youtu.be/Uay6X65Ukvk](https://youtu.be/Uay6X65Ukvk). The version given in that talk is Release v2.0.
+
+Short version (8 minutes) of collaboration with a Quarto report: [https://youtu.be/WvKw1OQIpMk](https://youtu.be/WvKw1OQIpMk)
 
 ## What is this doing?
 
