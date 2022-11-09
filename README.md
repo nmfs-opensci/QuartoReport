@@ -6,6 +6,17 @@ Presentation given on this Aug 11 2022: [https://youtu.be/Uay6X65Ukvk](https://y
 
 Short version (8 minutes) of collaboration with a Quarto report: [https://youtu.be/WvKw1OQIpMk](https://youtu.be/WvKw1OQIpMk)
 
+## Try it out
+
+[Try it in RStudio Cloud](https://rstudio.cloud/content/4925654)
+
+Or clone to your computer. To get the necessary packages, you can do
+```
+install.packages(renv) # if needed
+renv::restore()
+```
+Or don't do that and click "Render" from the Build TAB. Then install the packages as it complains. **You will also need to install tinytex.** How? `install.packages(tinytex)` and then `install_tinytex()`.
+
 ## What is this doing?
 
 * Dynamic tables and figures where the table number, table caption, number of tables is all dynamically created based on the data set
