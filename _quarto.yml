@@ -24,18 +24,19 @@ book:
           department: Southwest Fisheries Science Center
   chapters:
     - index.qmd
-#    - text/CRchum.qmd
-    - text/ICSRFchinook.qmd
+#    - deleteme3.qmd
+    - text/CRchum.qmd
+#    - text/ICSRFchinook.qmd
     - text/ICUCchinook.qmd
-    - text/LCchinook.qmd
-    - text/UWchinook.qmd
+#    - text/LCchinook.qmd
+#    - text/UWchinook.qmd
     - text/ICSRsthd.qmd   
-    - text/ICUCsthd.qmd
+#    - text/ICUCsthd.qmd
 #    - text/LCcoho.qmd    
 #    - text/LCsthd.qmd
 #    - text/OCcoho.qmd     
 #    - text/HCchum.qmd
-    - text/UWsthd.qmd
+#    - text/UWsthd.qmd
     - text/conclusion.qmd
     - references.qmd
 
@@ -54,7 +55,7 @@ format:
   docx:
     toc: true
     toc-depth: 2
-    reference-doc: template.docx
+    reference-doc: template_gt.dotx
     always_allow_html: true
   html:
     theme: cosmo
@@ -62,11 +63,11 @@ format:
     toc-depth: 3
   pdf:
     documentclass: scrbook
-    classoption: ["oneside"]
+    classoption: ["oneside", "open=any"]
     template-partials: ["partials/before-body.tex"]
     toc: true
     toc-depth: 2
     lof: true
     lot: true
     include-in-header: 
-      - partials/inheader.tex
+      - partials/inheader1.tex

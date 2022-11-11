@@ -13,15 +13,9 @@ csvfile <- paste0("{{data_id}}", ".csv")
 datafile <- here::here("data", csvfile)
 counts <- read.csv(datafile, stringsAsFactors=FALSE)
 modtime <- system(paste("git log -1 --format=%cd", datafil), intern=TRUE)
-```
-
-<!-- fixcols is in _common.R
-     A function I need for data wrangling. There are better ways to do this -->
-
-```{r}
+# a hacky way to fix the column names
 colnames(counts) <- fixcols(colnames(counts))
 ```
-
 
 ```{r}
 popname <- unique(counts$`Common Population Name`)[tbl]
@@ -30,16 +24,10 @@ rownames(dat) <- c()
 tbl_cap <- paste0("Spawners and fracwild from ", popname, " (NMFS_POPID ", {{popid}}, ") for ", min(dat$Year), " to ", max(dat$Year), ". ")
 ```
 
-<!-- unlike tbl-cap, label won't take a string so !expr tbl_label won't work. But you can still make this work with the hack below. -->
-
 ```{r results='asis'}
-if(isword) cat("\n", wordnewpage, "\n")
-if(ispdf) cat("\n\\newpage\n\n")
 cat("### ", popname, "\n\n")
-
 ```
 
-<!-- tablecount function -->
 ```{r}
 tablecount <- function(data, cols="Spawners"){
   dat <- data[, c("Year", cols)]
@@ -63,6 +51,9 @@ tablecount <- function(data, cols="Spawners"){
       kableExtra::add_footnote(c(f1, f2), notation="none") %>%
       kableExtra::kable_styling(latex_options = c( "HOLD_position"))
   }
+  if(table.engine=="gt"){
+    tab <-  dat %>% mygt()
+  }
   tab
 }
 ```
@@ -70,6 +61,7 @@ tablecount <- function(data, cols="Spawners"){
 ```{r}
 #| label: tbl-raw{{data_id}}-{{popid}}
 #| tbl-cap: !expr tbl_cap
+# unlike tbl-cap, label won't take a string so !expr tbl_label won't work.
 out <- NULL
 col <- c("Spawners", "Fracwild")
 if(nrow(dat) > 0){
@@ -81,6 +73,8 @@ tab
 ```
 
 ```{r results='asis'}
+if(nrow(dat) > 0){
 if(isword) cat("\n", wordnewpage, "\n")
-if(ispdf) cat("\n\\newpage\n\n")
+if(ispdf) cat("\n\\clearpage\n\n")
+}
 ```
