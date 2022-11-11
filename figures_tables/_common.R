@@ -5,12 +5,13 @@ require(ggplot2)
 require(kableExtra)
 require(ggmap)
 require(stringr)
+#require(gt)
 
 ishtml <- knitr::is_html_output()
 ispdf <- knitr::is_latex_output()
 isword <- !ishtml & !ispdf
-if(ishtml) table.engine <- "flextable"
-if(isword) table.engine <- "flextable"
+if(ishtml) table.engine <- "gt"
+if(isword) table.engine <- "gt"
 if(ispdf) table.engine <- "kbl"
 
 mapfigure <- function(title, id=NULL){
@@ -77,6 +78,23 @@ mykbl <- function(x, caption = NULL){
   if(n>8) kable_styling(x, latex_options = c("scale_down"))
   x
 }
+
+mygt <- function(x){
+  x <- x |>
+  gt::gt() |>
+  gt::tab_source_note(source_note = "gt") |>
+  gt::cols_align(align = "center")
+  if(isword){
+    x <- x |>
+    gt::tab_options(
+      column_labels.border.top.color = "black",
+      column_labels.border.bottom.color = "black",
+      table_body.border.bottom.color = "black",
+      table_body.hlines.color = "white")
+  }
+  x |> gt::as_raw_html()
+}
+
 # Misc
 
 wordnewpage <-
