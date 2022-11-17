@@ -28,7 +28,7 @@ book:
     - text/CRchum.qmd
 #    - text/ICSRFchinook.qmd
     - text/ICUCchinook.qmd
-#    - text/LCchinook.qmd
+    - text/LCchinook.qmd
 #    - text/UWchinook.qmd
     - text/ICSRsthd.qmd   
 #    - text/ICUCsthd.qmd
