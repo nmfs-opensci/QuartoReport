@@ -2,50 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/index.html</loc>
-    <lastmod>2022-08-23T00:40:11.470Z</lastmod>
+    <lastmod>2022-11-17T19:07:56.299Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICSRFchinook.html</loc>
-    <lastmod>2022-08-23T00:40:11.471Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/text/CRchum.html</loc>
+    <lastmod>2022-11-17T19:07:56.300Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICUCchinook.html</loc>
-    <lastmod>2022-08-23T00:40:11.473Z</lastmod>
+    <lastmod>2022-11-17T19:07:56.301Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/text/LCchinook.html</loc>
-    <lastmod>2022-08-23T00:40:11.482Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/QuartoReport/text/UWchinook.html</loc>
-    <lastmod>2022-08-23T00:40:11.484Z</lastmod>
+    <lastmod>2022-11-17T19:07:56.302Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICSRsthd.html</loc>
-    <lastmod>2022-08-23T00:40:11.485Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/QuartoReport/text/ICUCsthd.html</loc>
-    <lastmod>2022-08-23T00:40:11.487Z</lastmod>
-  </url>
-  <url>
-    <loc>https://nmfs-opensci.github.io/QuartoReport/text/UWsthd.html</loc>
-    <lastmod>2022-08-23T00:40:11.487Z</lastmod>
+    <lastmod>2022-11-17T19:07:56.303Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/text/conclusion.html</loc>
-    <lastmod>2022-08-23T00:40:11.488Z</lastmod>
+    <lastmod>2022-11-17T19:07:56.303Z</lastmod>
   </url>
   <url>
     <loc>https://nmfs-opensci.github.io/QuartoReport/references.html</loc>
-    <lastmod>2022-08-23T00:40:11.488Z</lastmod>
+    <lastmod>2022-11-17T19:07:56.303Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/QuartoReport/An-example-report.docx</loc>
-    <lastmod>2022-08-23T00:40:05.786Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/QmdReport.docx</loc>
+    <lastmod>2022-11-17T19:07:51.849Z</lastmod>
   </url>
   <url>
-    <loc>https://nmfs-opensci.github.io/QuartoReport/An-example-report.pdf</loc>
-    <lastmod>2022-08-23T00:40:10.792Z</lastmod>
+    <loc>https://nmfs-opensci.github.io/QuartoReport/QmdReport.pdf</loc>
+    <lastmod>2022-11-17T19:07:55.989Z</lastmod>
   </url>
 </urlset>
